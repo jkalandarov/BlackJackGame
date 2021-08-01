@@ -1,0 +1,33 @@
+body {
+    background-image: url('table1.jpg');
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 3em;
+}
+
+p {
+    font-size: 2em;
+}
+
+#message-elem {
+
+}
+
+button {
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: teal;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+    border: none;
+    margin: 5px;
+}
